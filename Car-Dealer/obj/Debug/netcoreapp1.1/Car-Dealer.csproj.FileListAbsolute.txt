@@ -6,3 +6,11 @@
 /Users/Guest/Desktop/Car-Dealer.Solution/Car-Dealer/bin/Debug/netcoreapp1.1/Car-Dealer.pdb
 /Users/Guest/Desktop/Car-Dealer.Solution/Car-Dealer/obj/Debug/netcoreapp1.1/Car-Dealer.dll
 /Users/Guest/Desktop/Car-Dealer.Solution/Car-Dealer/obj/Debug/netcoreapp1.1/Car-Dealer.pdb
+/Users/Guest/Desktop/Car-DealerCS/Car-Dealer/bin/Debug/netcoreapp1.1/Car-Dealer.deps.json
+/Users/Guest/Desktop/Car-DealerCS/Car-Dealer/bin/Debug/netcoreapp1.1/Car-Dealer.runtimeconfig.json
+/Users/Guest/Desktop/Car-DealerCS/Car-Dealer/bin/Debug/netcoreapp1.1/Car-Dealer.runtimeconfig.dev.json
+/Users/Guest/Desktop/Car-DealerCS/Car-Dealer/bin/Debug/netcoreapp1.1/Car-Dealer.dll
+/Users/Guest/Desktop/Car-DealerCS/Car-Dealer/bin/Debug/netcoreapp1.1/Car-Dealer.pdb
+/Users/Guest/Desktop/Car-DealerCS/Car-Dealer/obj/Debug/netcoreapp1.1/Car-Dealer.AssemblyInfo.cs
+/Users/Guest/Desktop/Car-DealerCS/Car-Dealer/obj/Debug/netcoreapp1.1/Car-Dealer.dll
+/Users/Guest/Desktop/Car-DealerCS/Car-Dealer/obj/Debug/netcoreapp1.1/Car-Dealer.pdb
